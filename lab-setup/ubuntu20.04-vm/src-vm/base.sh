@@ -38,3 +38,6 @@ sudo apt -y install zsh
 
 # Install vscode  
 sudo snap install --classic code
+
+# added by MH: Install tilde
+sudo apt -y install tilde
