@@ -44,14 +44,3 @@ Want to contribute? Great! Please take a few minutes to
 All the SEED labs in this repository use open-source licenses. 
 You can [read this](LICENSE.md) for more details.
 
-
-## Organization of this repository
-
-The SEED labs are divided into 6 categories, and each one has its own folder. 
-
-- ```category-crypto```:     For crypto labs
-- ```category-hardware```:   For hardware security labs
-- ```category-mobile```:     For mobile security labs
-- ```category-network```:    For network security labs
-- ```category-software```:   For software security labs
-- ```category-web```:        For web security labs
